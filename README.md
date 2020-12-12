@@ -12,7 +12,7 @@ python -m pip -r requirements.txt
 ## Usage
 
 ```bash
-python xigua.py
+python video_parse.py
 # 直接回车测试 https://www.ixigua.com/i6704446868685849092
 输入西瓜链接：https://www.ixigua.com/6903456861337584142
 # 开始解析
