@@ -31,5 +31,5 @@ python xigua.py
 
 默认下载在当前目录。
 
-基于 [xigua](https://github.com/py-wuhao/xigua)
+基于 [xigua](https://github.com/py-wuhao/xigua)改进编程。
 
